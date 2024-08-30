@@ -1,0 +1,20 @@
+## Course 2: Quantum Computing and Applications
+
+- Notebooks
+- - [Quantum Teleportation](./notebook.html?c2-mod1/teleportation)
+- - [Pulse Programming](./notebook.html?c2-mod2/pulse)
+- - [D-Wave QUBO](./notebook.html?c2-mod4/dwave)
+- - [VQE and Shots (old)](./notebook.html?c2-mod5/VQEshots-old)
+- - [VQE and Shots (new)](./notebook.html?c2-mod5/VQEshots-new)
+- - [VQE and noise (old)](./notebook.html?c2-mod5/VQEnoise-old)
+- - [VQE and noise (new)](./notebook.html?c2-mod5/VQEnoise-new)
+- - [Error Correction (old)](./notebook.html?c2-mod6/ECC-old)
+- - [Error Correction (new)](./notebook.html?c2-mod6/ECC-new)
+- - [Measurement Error Mitigation](./notebook.html?c2-mod6/mem)
+- - [M3](./notebook.html?c2-mod7/m3)
+- - [Zero Noise Extrapolation](./notebook.html?c2-mod7/zne)
+- - [Transpilation](./notebook.html?c2-mod8/transpile)
+- - [Mapomatic](./notebook.html?c2-mod8/mapomatic)
+- - [Dynamic Circuits](./notebook.html?c2-mod8/dynamic)
+- - [VQC Classification](./notebook.html?c2-mod9/vqc-classification)
+- - [QSVM](./notebook.html?c2-mod10/qsvm)
