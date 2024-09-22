@@ -1,0 +1,31 @@
+## Course 1: Introduction to Quantum Computing
+
+- Assignments
+- - [Assignment 1](/c1-solutions/assn-1.md)
+- - [Assignment 2](/c1-solutions/assn-2.md)
+- - [Assignment 3](/c1-solutions/assn-3.md)
+- - [Assignment 4](/c1-solutions/assn-4.md)
+- - [Assignment 5](/c1-solutions/assn-5.md)
+- - [Assignment 6](/c1-solutions/assn-6.md)
+- - [Assignment 7](/c1-solutions/assn-7.md)
+- - [Assignment 8](/c1-solutions/assn-8.md)
+- - [Assignment 9](/c1-solutions/assn-9.md)
+- - [Assignment 10](/c1-solutions/assn-10.md)
+- - [Assignment 11](/c1-solutions/assn-11.md)
+- - [Assignment 12](/c1-solutions/assn-12.md)
+- Quiz
+- - [Quiz 1 Part A](/c1-solutions/quiz-1_a.md)
+- - [Quiz 1 Part B](/c1-solutions/quiz-1_b.md)
+- Notebooks
+- - [Teleportation](./notebook.html?c1-mod5/teleportation)
+- - [Deutsch-Jozsa](./notebook.html?c1-mod6/deutsch–jozsa)
+- - [Quantum Fourier Transform](./notebook.html?c1-mod7/qft)
+- - [Quantum Phase Estimation](./notebook.html?c1-mod8/qpe)
+- - [Shor's Algorithm](./notebook.html?c1-mod8/shor)
+- - [Bernstein-Vazirani](./notebook.html?c1-mod9/bv)
+- - [Simon's Algorithm](./notebook.html?c1-mod9/simon)
+- - [Grover's Algorithm (Abstracted)](./notebook.html?c1-mod10/grover)
+- - [Grover's Algorithm (Scratch)](./notebook.html?c1-mod10/grover2)
+- - [Amplitude Amplification](./notebook.html?c1-mod11/ampamp)
+- - [HHL Algorithm](./notebook.html?c1-mod11/hhl)
+- - [Quantum Key Distribution](./notebook.html?c1-mod12/qkd)
