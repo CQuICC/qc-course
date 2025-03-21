@@ -10,7 +10,7 @@
 
   <script>
     function renderNotebook () {
-      const FILE = window.location.href.split( '?' )[ 1 ];
+      const FILE = window.location.href.split( '?' )[ 1 ] + ".ipynb";
       const name = FILE.replaceAll( "%2F", "/" ).split( '/' ).pop().split( '.' )[ 0 ];
       const main = document.getElementById( 'notebook' );
 
