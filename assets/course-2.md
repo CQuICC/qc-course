@@ -18,3 +18,6 @@
 - - [Measurement Error Mitigation](./notebook.html?c2-mod6/mem)
 - - [M3](./notebook.html?c2-mod7/m3)
 - - [Zero Noise Extrapolation](./notebook.html?c2-mod7/zne)
+- - [Transpilation](./notebook.html?c2-mod8/transpile)
+- - [Mapomatic](./notebook.html?c2-mod8/mapomatic)
+- - [Dynamic Circuits](./notebook.html?c2-mod8/dynamic)
